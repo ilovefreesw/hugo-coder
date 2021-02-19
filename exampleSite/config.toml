@@ -1,5 +1,5 @@
-baseURL = "http://www.example.com"
-title = "johndoe"
+baseURL = "http://www.ilovefreesoftware.com"
+title = "I Love Free Software Test"
 
 theme = "hugo-coder"
 
@@ -15,8 +15,8 @@ pygmentsCodeFencesGuessSyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "John Doe"
-    description = "John Doe's personal website"
+    author = "I Love Free Software Lax"
+    description = "This is i love free software test website"
     keywords = "blog,developer,personal"
     info = "Full Stack DevOps and Magician"
     avatarURL = "images/avatar.jpg"
@@ -126,7 +126,7 @@ disqusShortname = "yourdiscussshortname"
     name = "Github"
     icon = "fa fa-github"
     weight = 1
-    url = "https://github.com/johndoe/"
+    url = "https://github.com/ilovefreesw/"
 [[params.social]]
     name = "Gitlab"
     icon = "fa fa-gitlab"
@@ -136,7 +136,7 @@ disqusShortname = "yourdiscussshortname"
     name = "Twitter"
     icon = "fa fa-twitter"
     weight = 3
-    url = "https://twitter.com/johndoe/"
+    url = "https://twitter.com/ilovefreesw/"
 [[params.social]]
     name = "LinkedIn"
     icon = "fa fa-linkedin"
@@ -151,7 +151,7 @@ disqusShortname = "yourdiscussshortname"
     name = "RSS"
     icon = "fa fa-rss"
     weight = 6
-    url = "https://myhugosite.com/index.xml"
+    url = "http://feeds.feedburner.com/ilovefreesoftware/OEwA"
     rel = "alternate"
     type = "application/rss+xml"
 
